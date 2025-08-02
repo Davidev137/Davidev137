@@ -1,41 +1,44 @@
-## Hi there 👋
+# 👋 ¡Hola!
 
-<!--
-**Davidev137/Davidev137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hola, soy [Tu Nombre] 👋
-
-Soy un Ingeniero Físico apasionado por la **Inteligencia Artificial** y el **aprendizaje automático**. Mi formación en física me ha brindado una perspectiva única para abordar problemas complejos, desde la modelación de sistemas dinámicos hasta el análisis de datos a gran escala.
----
-
-**🛠️ Tecnologías y habilidades:**
-
-* **Lenguajes:** Python, Rstudio
-* **Frameworks de IA:** TensorFlow, PyTorch, Scikit-learn
-* **Herramientas:** Docker, Git, Jupyter Notebooks
-* **Conceptos:** Machine Learning, Deep Learning, Computer Vision, Procesamiento de Señales
+Soy estudiante de Ingeniería Física en la Universidad Nacional de Colombia.  
+Apasionado por el machine learning y el análisis de datos, con experiencia en deep learning aplicado a arquitecturas de RNN y CNN.  
+Trabajo principalmente con PyTorch y TensorFlow en proyectos de predicción de series temporales y visión por computadora.  
+Me interesa colaborar en iniciativas que impulsen la innovación científica y tecnológica mediante el uso de inteligencia artificial.
 
 ---
 
-**🚀 Proyectos destacados:**
-
-* **[Nombre del Proyecto 1]:** Breve descripción del proyecto.
-    * [Enlace al repositorio]
-* **[Nombre del Proyecto 2]:** Breve descripción del proyecto.
-    * [Enlace al repositorio]
-* **[Nombre del Proyecto 3]:** Breve descripción del proyecto.
-    * [Enlace al repositorio]
+## 💻 Tecnologías y herramientas
+- **Lenguajes:** Python
+- **Frameworks:** PyTorch, TensorFlow
+- **Áreas de interés:** Machine Learning, Deep Learning, Series temporales, Visión por computadora
 
 ---
 
-**📚 Estoy aprendiendo:**
+## 📜 Certificaciones
 
-Actualmente estoy explorando las arquitecturas de **modelos de lenguaje grandes (LLMs)** y su aplicación en [menciona un área de interés].
+- Curso de Machine Learning – [Coursera](https://www.coursera.org/learn/machine-learning)
+- Deep Learning Specialization – [Coursera](https://www.coursera.org/specializations/deep-learning)
+- Certificado en Python para Ciencia de Datos – [edX](https://www.edx.org/course/python-for-data-science)
+- Taller de PyTorch para Visión por Computadora – [Udemy](https://www.udemy.com/course/pytorch-for-computer-vision/)
 
 ---
 
-**🌐 Conéctate conmigo:**
+## 🚀 Proyectos principales
 
-* **LinkedIn:** [Enlace a tu perfil de LinkedIn]
-* **Sitio web/portafolio:** [Enlace a tu sitio personal si lo tienes]
-* **Email:** [Tu correo electrónico]
+- **Predicción de demanda energética**  
+  Modelos RNN y LSTM para pronóstico de series temporales en consumo energético.  
+  [Ver repositorio](https://github.com/Davidev137/energy-demand-prediction)
+
+- **Clasificador de imágenes médicas con CNN**  
+  Red convolucional para clasificación de imágenes radiográficas.  
+  [Ver repositorio](https://github.com/Davidev137/medical-image-classifier)
+
+- **Reconocimiento de acciones humanas en video**  
+  Proyecto de visión por computadora con redes recurrentes y convolucionales.  
+  [Ver repositorio](https://github.com/Davidev137/action-recognition-video)
+
+---
+
+## 📫 Contacto
+- Universidad Nacional de Colombia
+- [Tu correo o LinkedIn, si quieres agregarlo]
