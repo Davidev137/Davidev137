@@ -40,5 +40,7 @@ Me interesa colaborar en iniciativas que impulsen la innovación científica y t
 ---
 
 ## 📫 Contacto
-- Universidad Nacional de Colombia
-- [Tu correo o LinkedIn, si quieres agregarlo]
+- Universidad Nacional de Colombia : bsaavedras@unal.edu.co
+- https://www.linkedin.com/in/david-saavedra-s-94851930a/
+- brayandavid.saavedra@gmail.com
+- 3124110459
