@@ -16,10 +16,11 @@ Me interesa colaborar en iniciativas que impulsen la innovación científica y t
 
 ## 📜 Certificaciones
 
-- Curso de Machine Learning – [Coursera](https://www.coursera.org/learn/machine-learning)
-- Deep Learning Specialization – [Coursera](https://www.coursera.org/specializations/deep-learning)
-- Certificado en Python para Ciencia de Datos – [edX](https://www.edx.org/course/python-for-data-science)
-- Taller de PyTorch para Visión por Computadora – [Udemy](https://www.udemy.com/course/pytorch-for-computer-vision/)
+- [Certificado Ciencia de datos para Ingenieros y Economistas – UNIR ITED](https://drive.google.com/file/d/1k92IoEFgX3nk7wd-3uvi5UaPYdestQJG/view?usp=drive_link)
+- [Certificado Inteligencia Artificial – Talentotech/TIC](https://drive.google.com/file/d/1dqeShnTSqDZF-HNw4k-yUgH9DrUiX-ao/view?usp=drive_link)
+- [Certificado Python Procesamiento de Imágenes – Coursera](https://drive.google.com/file/d/1FDVz40qd51wOlfagNxEmSXNtkSlVDm3x/view?usp=drive_link)
+- [Certificado Fundamentos de Programación en Python – Coursera](https://drive.google.com/file/d/1pY5kcHP9Qii6OFuiBsCQFFC4S97LHd1v/view?usp=drive_link)
+
 
 ---
 
