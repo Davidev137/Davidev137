@@ -9,7 +9,7 @@ Me interesa colaborar en iniciativas que impulsen la innovación científica y t
 
 ## 💻 Tecnologías y herramientas
 - **Lenguajes:** Python
-- **Frameworks:** PyTorch, TensorFlow
+- **Frameworks:** PyTorch, TensorFlow, OpenCV
 - **Áreas de interés:** Machine Learning, Deep Learning, Series temporales, Visión por computadora
 
 ---
