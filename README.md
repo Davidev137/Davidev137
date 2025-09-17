@@ -34,9 +34,6 @@ Me interesa colaborar en iniciativas que impulsen la innovación científica y t
   Varios modelos de Machine Learning para clasificar impagos de microcréditos.  
   [Ver repositorio](https://github.com/Davidev137/impagoMicrocreditoML).
 
-- **Reconocimiento de acciones humanas en video**  
-  Proyecto de visión por computadora con redes recurrentes y convolucionales.  
-  [Ver repositorio](https://github.com/Davidev137/action-recognition-video)
 
 ---
 
