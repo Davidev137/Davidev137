@@ -27,7 +27,7 @@ Me interesa colaborar en iniciativas que impulsen la innovación científica y t
 ## 🚀 Proyectos principales
 
 - **Predicción de demanda energética**  
-  Modelo LSTM para pronóstico de series temporales en la precipitación de lluvias en antioquia.  
+  Modelo LSTM para pronóstico de series temporales en la precipitación de lluvias en Antioquia.  
   [Ver repositorio](https://github.com/Davidev137/prediccion)
 
 - **Clasificador de imágenes médicas con CNN**  
