@@ -27,8 +27,8 @@ Me interesa colaborar en iniciativas que impulsen la innovación científica y t
 ## 🚀 Proyectos principales
 
 - **Predicción de demanda energética**  
-  Modelos RNN y LSTM para pronóstico de series temporales en consumo energético.  
-  [Ver repositorio](https://github.com/Davidev137/energy-demand-prediction)
+  Modelo LSTM para pronóstico de series temporales en la precipitación de lluvias en antioquia.  
+  [Ver repositorio](https://github.com/Davidev137/prediccion)
 
 - **Clasificador de imágenes médicas con CNN**  
   Red convolucional para clasificación de imágenes radiográficas.  
