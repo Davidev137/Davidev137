@@ -30,9 +30,9 @@ Me interesa colaborar en iniciativas que impulsen la innovación científica y t
   Modelo LSTM para pronóstico de series temporales en la precipitación de lluvias en Antioquia.  
   [Ver repositorio](https://github.com/Davidev137/prediccion)
 
-- **Clasificador de imágenes médicas con CNN**  
-  Red convolucional para clasificación de imágenes radiográficas.  
-  [Ver repositorio](https://github.com/Davidev137/medical-image-classifier)
+- **Modelo de Clasificación de Impagos**  
+  Varios modelos de Machine Learning para clasificar impagos de microcréditos.  
+  [Ver repositorio](https://github.com/Davidev137/impagoMicrocreditoML).
 
 - **Reconocimiento de acciones humanas en video**  
   Proyecto de visión por computadora con redes recurrentes y convolucionales.  
